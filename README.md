@@ -1,2 +1,2 @@
 # HealthCarriers
-Решение команды HealthCarriers в треку CardioSpike Цифрового прорыва (Health &amp; Science)
+Решение команды HealthCarriers в треке CardioSpike Цифрового прорыва (Health &amp; Science)
